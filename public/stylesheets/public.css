@@ -55,21 +55,21 @@ footer {
     color: #FFFFFF;
 }
 
-/* nav */
+/* Navigation */
 
-nav {
+navigation {
     float: left;
     width: 200px;
     height: 100%;
     background: #7a6855;
 }
 
-nav a {
+navigation a {
     color: #FFFFFF;
     text-decoration: none;
 }
 
-nav a:hover {
+navigation a:hover {
     color: #e03e52;
     text-decoration: underline;
 }
@@ -106,7 +106,7 @@ ul.pages {
     font-style: normal;
 }
 
-nav li {
+navigation li {
     font-size: 16px;
     line-height: 1.5em;
 }
